@@ -1,0 +1,1 @@
+All the secret documents will be here. gitignore will be used to prevent this file from getting added to the remote repository.
